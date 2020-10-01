@@ -74,7 +74,7 @@ Join the [Riot Games API Discord Server](https://discordapp.com/invite/riotgames
 
 * [lcu-event-viewer](https://github.com/pipe01/lcu-event-viewer) - View and record events that the LCU sends through websockets.
 
-* [LeagueConnect](https://github.com/supergrecko/league-connect) - NPM Module to get the LCU credentials and connect to the websocket.
+* [LeagueConnect](https://github.com/supergrecko/league-connect) - LCU Client for HTTP requests and WebSockets for Node and Deno
 
 * [lcu-connector](https://github.com/Pupix/lcu-connector) - NPM Module to connect to the LCU automatically.
 
